@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-
 import Pokedex from "./Pokedex";
 function App() {
   return (
