@@ -4,9 +4,9 @@ import pokeball from "./pokeball.jpg";
 class Pokecard extends Component {
   render() {
     return (
-      <div>
-        <p>Charmender</p>
-        <img src={pokeball} alt="pokeball" className="Pokecard-img" />
+      <div className="Pokecard">
+        <p className="Pokemon-name">Charmender</p>
+        <img className="Pokecard-img" src={pokeball} alt="pokeball" />
         <p>Type: fire</p>
         <p>EXP: 62</p>
       </div>

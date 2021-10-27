@@ -2,10 +2,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
-  grid-template-rows: minmax(100px, auto);
-}
-
-.Pokecard-img {
-  max-width: 100%;
-  width: 100px;
+  grid-template-rows: minmax(100, auto);
+  width: 80%;
+  margin: 0 auto;
 }
