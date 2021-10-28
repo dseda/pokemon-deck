@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import pokeball from "./pokeball.jpg";
 
 function pad(id) {
   return id.toString().padStart(3, "0");
