@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokemon-deck/static/css/main.a3da1500.chunk.css",
+    "main.js": "/pokemon-deck/static/js/main.33046f7e.chunk.js",
+    "main.js.map": "/pokemon-deck/static/js/main.33046f7e.chunk.js.map",
+    "runtime-main.js": "/pokemon-deck/static/js/runtime-main.a48713bc.js",
+    "runtime-main.js.map": "/pokemon-deck/static/js/runtime-main.a48713bc.js.map",
+    "static/js/2.396b2232.chunk.js": "/pokemon-deck/static/js/2.396b2232.chunk.js",
+    "static/js/2.396b2232.chunk.js.map": "/pokemon-deck/static/js/2.396b2232.chunk.js.map",
+    "static/js/3.49c2057b.chunk.js": "/pokemon-deck/static/js/3.49c2057b.chunk.js",
+    "static/js/3.49c2057b.chunk.js.map": "/pokemon-deck/static/js/3.49c2057b.chunk.js.map",
+    "index.html": "/pokemon-deck/index.html",
+    "static/css/main.a3da1500.chunk.css.map": "/pokemon-deck/static/css/main.a3da1500.chunk.css.map",
+    "static/js/2.396b2232.chunk.js.LICENSE.txt": "/pokemon-deck/static/js/2.396b2232.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a48713bc.js",
+    "static/js/2.396b2232.chunk.js",
+    "static/css/main.a3da1500.chunk.css",
+    "static/js/main.33046f7e.chunk.js"
+  ]
+}
